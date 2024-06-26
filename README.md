@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Software Developer from Sri Lanka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinushimunasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="dinushimunasinghe" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinushimunasinghe" alt="dinushimunasinghe" /></a> </p>
-![view-3d-woman-using-laptop (1)](https://github.com/dinushimunasinghe/dinushimunasinghe/assets/115073266/aedc62c4-8f66-419b-b70b-3992c9bd0676)
 
 - 🌱 I’m currently learning **Cisco Networking Course**
 
